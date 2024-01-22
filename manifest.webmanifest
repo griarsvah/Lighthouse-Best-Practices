@@ -7,12 +7,6 @@
   "start_url": "index.html",
   "icons": [
     {
-      "src": "imgs/maskable-144.png",
-      "type": "image/png",
-      "sizes": "144x144",
-      "purpose": "maskable"
-    },
-    {
       "src": "imgs/512.png",
       "type": "image/png",
       "sizes": "512x512"
