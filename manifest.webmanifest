@@ -25,6 +25,7 @@
     }
   ],
   "start_url": "index.html",
+  "description": "A basic example extension with only required keys",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#FFFFFF",
